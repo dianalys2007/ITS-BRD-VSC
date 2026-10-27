@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "Programs/Probeklausur2026/Probeklausur2026": {
+            "activeTargetType": "ITSboard"
+        }
+    },
+    "activeSolution": "../Programs/Probeklausur2026/Probeklausur2026.csolution.yml",
+    "activeTarget": "ITSboard"
+}

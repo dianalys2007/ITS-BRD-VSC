@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: /Users/dianalys/ITS-BRD-VSC/Programs/Probeklasur2/out/Probeklasur2/ITSboard/Debug
+  Add:
+    - -include
+    - /Users/dianalys/ITS-BRD-VSC/Programs/Probeklasur2/out/Probeklasur2/ITSboard/Debug/compile_macros.h

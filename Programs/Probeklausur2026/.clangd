@@ -1,0 +1,10 @@
+CompileFlags:
+  CompilationDatabase: /Users/dianalys/ITS-BRD-VSC/Programs/Probeklausur2026/out/Probeklausur2026/ITSboard/Debug
+
+---
+If:
+  PathMatch: .*\.(c|C|h)$
+CompileFlags:
+  Add:
+    - -include
+    - /Users/dianalys/ITS-BRD-VSC/Programs/Probeklausur2026/out/Probeklausur2026/ITSboard/Debug/compile_macros_c.h
